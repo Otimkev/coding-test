@@ -1,0 +1,11 @@
+{
+  "name": "expense-tracker-test",
+  "version": "1.0.0",
+  "description": "Junior developer coding test",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
